@@ -6,21 +6,21 @@ Tea Set is a library of Bubble Tea components.
 
 The following components are part of the set. See the [roadmap](#roadmap-⭡) for current state.
 
-| Component      | Description                                                  |
-| -------------- | ------------------------------------------------------------ |
-| Radio          | Select one item from a list.                                 |
-| Toggle         | Enable or disable item.                                      |
-| Selection List | Hierarchical list.                                           |
-| Filter List    | Filterable list with pagination.                             |
-| Config         | Configuration component comprised of section list and other components. |
-| Shortcuts      | Lists keyboard shortcuts.                                    |
-| Status Bar     | Single line status bar with segments.                        |
+| Component    | Description                                                  |
+| ------------ | ------------------------------------------------------------ |
+| Radio        | Select one item from a list.                                 |
+| Toggle       | Enable or disable item.                                      |
+| Section List | Hierarchical list.                                           |
+| Filter List  | Filterable list with pagination.                             |
+| Config       | Configuration component comprised of section list and other components. |
+| Shortcuts    | Lists keyboard shortcuts.                                    |
+| Status Bar   | Single line status bar with segments.                        |
 
 ## 🚗 Roadmap [⭡](#tea-set)
 
 - [x] Radio
 - [x] Toggle
-- [ ] Selection List
+- [x] Section List
 - [ ] Filter List
 - [ ] Config
 - [ ] Shortcuts
