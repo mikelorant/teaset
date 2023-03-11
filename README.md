@@ -18,7 +18,7 @@ The following components are part of the set. See the [roadmap](#roadmap-⭡) fo
 
 ## 🚗 Roadmap [⭡](#tea-set)
 
-- [ ] Radio
+- [x] Radio
 - [x] Toggle
 - [ ] Selection List
 - [ ] Filter List
