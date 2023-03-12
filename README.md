@@ -21,7 +21,7 @@ The following components are part of the set. See the [roadmap](#roadmap-⭡) fo
 - [x] Radio
 - [x] Toggle
 - [x] Section List
-- [ ] Filter List
+- [x] Filter List
 - [ ] Config
 - [ ] Shortcuts
 - [ ] Status Bar
